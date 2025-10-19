@@ -64,5 +64,6 @@
     <hr class="mb-3">
     <p>© {{ date('Y') }} TransLog System — Developed by <strong>Rofi Barbie Silviana Putri</strong></p>
   </footer>
+  @include('components.alert')
 </body>
 </html>
